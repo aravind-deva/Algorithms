@@ -9,3 +9,7 @@ A few of the classes have main() method with test data set. Execute them as Java
 ## Contribute 
 
 The solutions have been tested with a wide variety of test inputs. However , in case you find a bug, please raise an issue. Fork the repo and create a pull request to merge into the source repo
+
+## License
+
+Licensed under [LICENSE](LICENSE)
